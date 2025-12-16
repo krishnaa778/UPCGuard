@@ -36,7 +36,10 @@ ADMIN_NAMES = {
     "Upcomers",
      "UPC", 
     "Jakub CEO",
-"Jakub - Upcomers"
+"Jakub - Upcomers",
+    "Head of customer service",
+    "Head of brand reputation",
+    "Community Moderator"
 }
 
 # Channel ID where alerts will be sent
