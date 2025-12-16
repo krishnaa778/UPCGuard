@@ -4,8 +4,8 @@ from discord.ext import commands
 # =========================
 # CONFIGURATION
 # =========================
-
-TOKEN = "MTQ1MDQ2OTE5NjQ5OTUxNzU5NA.GIddi9.Y1LdD6ouwyK-YK80dXpeiV62VErSHYGp73QHd0"
+import os
+TOKEN = os.getenv("DISCORD_TOKEN")
 
 # REAL ADMIN USER IDS (never change)
 ADMIN_IDS = {
